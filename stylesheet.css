@@ -1,0 +1,13 @@
+#color_displayer {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    padding: 10px;
+    float: right;
+}

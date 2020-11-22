@@ -5,8 +5,5 @@ function randomize() {
     return backgroundColor;
 }
 
-function getColor() {
-    return backgroundColor;
-}
-
 document.getElementById("main").style.backgroundColor = randomize();
+document.getElementById("color_displayer").innerHTML = backgroundColor;
